@@ -72,7 +72,7 @@ Exemples de colonnes souvent rencontrées (à adapter) : `age`, `hypertension`, 
 
 ---
 
-## ▶ Exécution
+##  Exécution
 
 ### Option A — Jupyter Lab/Notebook
 ```bash
@@ -146,7 +146,7 @@ conda env export > environment.yml
 ---
 
 
-##  Auteur·rice
+##  Auteur
 Nassim LOUDIYI / Paul-Adrien LU-YEN-TUNG
 
 
